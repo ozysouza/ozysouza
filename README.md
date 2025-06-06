@@ -24,7 +24,7 @@
 📚 **Currently Learning**
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp;
-![](https://img.shields.io/badge/Java_Spring_CRUD-Best_Practices-6DB33F?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/Java_Spring_Boot-Best_Practices-6DB33F?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/Python_APIs-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/Flask-Python_Web_Framework-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
